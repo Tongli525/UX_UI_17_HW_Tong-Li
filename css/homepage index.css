@@ -1,0 +1,8 @@
+/* Header styles */
+.logo {
+    background: white;
+    height: 230px;
+    background-image: url("../images/jakes-logo.png");
+    background-repeat: no-repeat;
+    background-position: center;
+  }
